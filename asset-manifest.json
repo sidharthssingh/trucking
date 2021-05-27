@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cogoport/static/css/main.15814b68.chunk.css",
+    "main.js": "/cogoport/static/js/main.8f8ad1d4.chunk.js",
+    "main.js.map": "/cogoport/static/js/main.8f8ad1d4.chunk.js.map",
+    "runtime-main.js": "/cogoport/static/js/runtime-main.b112822b.js",
+    "runtime-main.js.map": "/cogoport/static/js/runtime-main.b112822b.js.map",
+    "static/js/2.87ca426c.chunk.js": "/cogoport/static/js/2.87ca426c.chunk.js",
+    "static/js/2.87ca426c.chunk.js.map": "/cogoport/static/js/2.87ca426c.chunk.js.map",
+    "index.html": "/cogoport/index.html",
+    "static/css/main.15814b68.chunk.css.map": "/cogoport/static/css/main.15814b68.chunk.css.map",
+    "static/js/2.87ca426c.chunk.js.LICENSE.txt": "/cogoport/static/js/2.87ca426c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b112822b.js",
+    "static/js/2.87ca426c.chunk.js",
+    "static/css/main.15814b68.chunk.css",
+    "static/js/main.8f8ad1d4.chunk.js"
+  ]
+}
