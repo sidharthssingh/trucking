@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to setup locally
+
+1. Clone the repo
+2. cd to the root of the repo
+3. run `yarn` in your terminal
+4. run `yarn start` to start the app locally at 3000 port
+
 ## Available Scripts
 
 In the project directory, you can run:
